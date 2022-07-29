@@ -16,10 +16,12 @@ nav{
     color: #fff;
     display: flex;
     align-items: center;
+    width: 97vw
 }
 
 .navbar{
     padding: 15px 0px;
+
 }
 
 .navbar div img{
