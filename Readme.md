@@ -17,7 +17,7 @@ Was able to use concepts of css like selectors which are used to target a partic
 1 hrs
 
 ## Project Link
-
+https://crypto-landing-website.netlify.app/
 
 ### Techonology used:
 1. HTML
